@@ -32,16 +32,7 @@ A Streamlit-based web dashboard to visualize the performance and ROI (Return on 
 
 ## 🔧 Setup Instructions
 
-### 🖥️ Option 1: Run Locally
-
-#### Prerequisites:
-- Python 3.8+
-- Install required packages: pip install streamlit pandas
-Run the app:
-- streamlit run app.py
-- It will open in your browser at: http://localhost:8501
-
-### 🌐 Option 2: Run on Google Colab with ngrok (if you don’t have local setup)
+### Run on Google Colab with ngrok 
 - Upload all files (app.py, 4 CSVs)
 
 - Install Streamlit and pyngrok in Colab:  !pip install streamlit pyngrok
